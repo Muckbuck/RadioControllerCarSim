@@ -1,0 +1,7 @@
+C:\Users\John Smith\source\repos\RadioControlledCarSim\RadioControlledCar\obj\Debug\RadioControlledCar.csprojAssemblyReference.cache
+C:\Users\John Smith\source\repos\RadioControlledCarSim\RadioControlledCar\obj\Debug\RadioControlledCar.csproj.CoreCompileInputs.cache
+C:\Users\John Smith\source\repos\RadioControlledCarSim\RadioControlledCar\bin\Debug\RadioControlledCar.exe.config
+C:\Users\John Smith\source\repos\RadioControlledCarSim\RadioControlledCar\bin\Debug\RadioControlledCar.exe
+C:\Users\John Smith\source\repos\RadioControlledCarSim\RadioControlledCar\bin\Debug\RadioControlledCar.pdb
+C:\Users\John Smith\source\repos\RadioControlledCarSim\RadioControlledCar\obj\Debug\RadioControlledCar.exe
+C:\Users\John Smith\source\repos\RadioControlledCarSim\RadioControlledCar\obj\Debug\RadioControlledCar.pdb
